@@ -4,3 +4,7 @@
 1. HTML5, CSS3, JavaScript.
 2. Методология БЭМ.
 3. Флексбокс-вёрстка.
+
+**GH pages**
+
+* [Ссылка на проект в GitHub Pages](https://petrovms.github.io/Second-project/index.html) 
